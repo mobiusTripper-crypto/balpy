@@ -145,7 +145,7 @@ class balpy(object):
 								"directory":"20211208-stable-phantom-pool"
 							},
 							"ComposableStablePoolFactory": {
-								"directory":"20230206-composable-stable-pool-v3"
+								"directory":"20230320-composable-stable-pool-v4"
 							},
 							"AaveLinearPoolFactory": {
 								"directory":"20220817-aave-rebalanced-linear-pool"
